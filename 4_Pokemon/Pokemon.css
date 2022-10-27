@@ -1,0 +1,17 @@
+.pokemon {
+    display: inline-block;
+    text-align: center;
+}
+
+.pokemon img {
+    display: block;
+}
+
+/* div {
+    border: 1px solid black;
+    border-radius: 10px;
+    background-color: gray;
+    display: inline-block;
+    padding: 15px 35px;
+    transition: background-color 200ms ease-in-out;
+} */
